@@ -1,0 +1,473 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.9.7",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 2178948,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 329388,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 387204,
+            "byteOffset": 329388,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 387204,
+            "byteOffset": 716592,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 516272,
+            "byteOffset": 1103796,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 258136,
+            "byteOffset": 1620068,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4680,
+            "byteOffset": 1878204,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 11892,
+            "byteOffset": 1882884,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 11892,
+            "byteOffset": 1894776,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 15856,
+            "byteOffset": 1906668,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 7928,
+            "byteOffset": 1922524,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 42960,
+            "byteOffset": 1930452,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 51384,
+            "byteOffset": 1973412,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 51384,
+            "byteOffset": 2024796,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 68512,
+            "byteOffset": 2076180,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 34256,
+            "byteOffset": 2144692,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 164694,
+            "bufferView": 0,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 32267,
+            "bufferView": 1,
+            "byteOffset": 0,
+            "min": [
+                -883.031372070313,
+                173.239395141602,
+                -168.583877563477
+            ],
+            "max": [
+                211.071502685547,
+                1499.82641601563,
+                97.3345947265625
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 32267,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 32267,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 32267,
+            "bufferView": 4,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 2340,
+            "bufferView": 5,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 991,
+            "bufferView": 6,
+            "byteOffset": 0,
+            "min": [
+                -722.457153320313,
+                610.794616699219,
+                16.0611991882324
+            ],
+            "max": [
+                -95.5924987792969,
+                1486.32873535156,
+                90.9708938598633
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 991,
+            "bufferView": 7,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 991,
+            "bufferView": 8,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 991,
+            "bufferView": 9,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 21480,
+            "bufferView": 10,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 4282,
+            "bufferView": 11,
+            "byteOffset": 0,
+            "min": [
+                -966.579956054688,
+                133.659103393555,
+                -96.9224014282227
+            ],
+            "max": [
+                384.743591308594,
+                1560.17736816406,
+                145.173400878906
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 4282,
+            "bufferView": 12,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 4282,
+            "bufferView": 13,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 4282,
+            "bufferView": 14,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "11803_Airplane_wing_details_LMat",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.906331717967987,
+                    0.906331717967987,
+                    0.906331717967987,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        },
+        {
+            "name": "11803_Airplane_wing_holder_LMat",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.906331717967987,
+                    0.906331717967987,
+                    0.906331717967987,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        },
+        {
+            "name": "11803_Airplane_wing_LMat",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Lambert",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.906331717967987,
+                    0.906331717967987,
+                    0.906331717967987,
+                    1.0
+                ],
+                "metallicFactor": 0.200000002980232,
+                "roughnessFactor": 0.800000011920929
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "11803_Airplane_wing_details_L",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 1,
+                        "TANGENT": 3,
+                        "TEXCOORD_0": 4
+                    },
+                    "indices": 0
+                }
+            ]
+        },
+        {
+            "name": "11803_Airplane_wing_holder_L",
+            "primitives": [
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 7,
+                        "POSITION": 6,
+                        "TANGENT": 8,
+                        "TEXCOORD_0": 9
+                    },
+                    "indices": 5
+                }
+            ]
+        },
+        {
+            "name": "11803_Airplane_wing_L",
+            "primitives": [
+                {
+                    "material": 2,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 12,
+                        "POSITION": 11,
+                        "TANGENT": 13,
+                        "TEXCOORD_0": 14
+                    },
+                    "indices": 10
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "plane",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                -0.70710676908493,
+                -0.0,
+                0.0,
+                0.70710676908493
+            ],
+            "scale": [
+                0.0199999995529652,
+                0.0200000032782555,
+                0.0200000032782555
+            ],
+            "children": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "name": "11803_Airplane_wing_details_L",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 0
+        },
+        {
+            "name": "11803_Airplane_wing_holder_L",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 1
+        },
+        {
+            "name": "11803_Airplane_wing_L",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "mesh": 2
+        }
+    ]
+}
