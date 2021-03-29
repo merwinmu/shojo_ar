@@ -90,9 +90,12 @@
     }).then((controller) => {
 
       var loader = new THREE.GLTFLoader();
-      loader.load('../resources/models/CesiumMan/glTF/CesiumMan.gltf', function(gltf) {
+      loader.load('../resources/models/michmieten/glTF/Label.gltf', function(gltf) {
         console.log( gltf );
         model = gltf.scene;
+        model.scale.x = model.scale.y = model.scale.z = 0.2;
+        model.rotation.x = 90;
+        model.rotation.z = 160.2;
         mixer = new THREE.AnimationMixer( gltf.scene );
         gltf.animations.forEach( ( clip ) => {
 
@@ -110,7 +113,7 @@
       torus.position.y = 0.5
       torus.castShadow = true;
       torus.receiveShadow = true;
-      markerGroup.add(torus);
+      //markerGroup.add(torus);
 
       directionalLight.target = torus
 
