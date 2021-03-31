@@ -3,4 +3,6 @@
 This is a simple demo app done using Reactjs.
 The Three.JS loads the GLTF object with animation and renders it using ThreeAR.
 
-Based on https://github.com/JamesLMilner/THREEAR
+Demo link: https://shojo-ar.web.app
+
+Credits to https://github.com/JamesLMilner/THREEAR
